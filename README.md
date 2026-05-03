@@ -1,12 +1,13 @@
-# 💧 Controle de Níveis de Água
+# 💧 Controle de Níveis de Água 🚀
 
-Projeto simples em Python para simular o monitoramento de um reservatório de água, exibindo mensagens coloridas no terminal de acordo com o nível atual.
+Projeto simples em Python para simular o monitoramento de um reservatório de água, exibindo mensagens coloridas no terminal conforme o nível atual.
 
 ---
 
+
 ## 📌 Objetivo
 
-O sistema tem como objetivo representar diferentes níveis de água de um reservatório e exibir alertas visuais com cores distintas, facilitando a identificação da situação.
+Representar os níveis de um reservatório de água e exibir alertas visuais com cores diferentes, facilitando a identificação da situação.
 
 ---
 
@@ -24,20 +25,20 @@ O sistema tem como objetivo representar diferentes níveis de água de um reserv
 
 ## 🛠️ Tecnologias utilizadas
 
-* Python
-* Biblioteca Colorama
+* 🐍 Python
+* 🎨 Colorama
 
 ---
 
 ## 📦 Como executar o projeto
 
-1. Instale a biblioteca necessária:
+1. Instale a biblioteca:
 
 ```bash
 pip install colorama
 ```
 
-2. Execute o arquivo:
+2. Execute o programa:
 
 ```bash
 python controle_agua.py
